@@ -1,1 +1,1 @@
-# Parallel-and-Distributed-Processing-Project-High-Performance-Computing
+# Laplace Solver on High Performance Computer using MPI
